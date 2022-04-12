@@ -12,4 +12,3 @@ Following step 4, the following can be done in any order:
   7. ML Python Tutorials
   8. Other Python Tutorials
   9. How to execute Jupyter Notebooks
-  
