@@ -7,4 +7,5 @@ Instructions must be completed in the following order:
   5. Downloading open source code and getting started with Python
 
 Following step 4, there are several more tutorials for added understanding. To access more tutorials navigate to the following:
+
   EE403-Capstone>Getting Starting>More Tutorials
