@@ -1,10 +1,10 @@
 Make sure to follow all instructions in "Getting Started" folder. 
 
 Instructions must be completed in the following order:
-  1. Install Python
-  2. Install Visual Studio Code (VSC)
-  3. Loading tutorials (Python Code and Jupyter Notebook) into Visual Studio Code
-  4. Downloading open source code and getting started with Python
+  1. Install Python (https://www.python.org/downloads/)
+  3. Install Visual Studio Code (VSC) (
+  4. Loading tutorials (Python Code and Jupyter Notebook) into Visual Studio Code
+  5. Downloading open source code and getting started with Python
 
 Following step 4, the following can be done in any order:
   5. UI Python Tutorials
