@@ -30,10 +30,14 @@ This will be a directory and navigation tool to find what you are looking for:
   - Loading Tutorials into VSC.md
   - Main Tutorial.ipynb
   - README.md
-  - 
+  
 
 - Main Code (Main working code and history of edits)
-  -
+  - Hough_Test_001.ipynb
+  - Hough_Test_002.ipynb
+  - Hough_Test_003.ipynb
+  - Hough_Test_004.ipynb
+  - Hough_Test_005.ipynb
 
 - Moving Forward (Information on expanding event based)
   - SLAM Event Based Resources
@@ -41,7 +45,20 @@ This will be a directory and navigation tool to find what you are looking for:
 
 - Recording and Data Sets 
   - Datasets
+    - box_filtering.py
+    - box_loading.py
+    - coco_eval.py
+    - dat_events_tools.py
+    - data_visualization.py
+    - datasets link
+    - npy_events_tools.py
+    - psee_loader.py
+    - vis_utils.py
   - Sample Recordings
+    - 200_jets_at_200hx.raw
+    - 80_balls.raw
+    - marker video
+    - sparklers.raw
 
 
 - Supporting Documentation and Information
