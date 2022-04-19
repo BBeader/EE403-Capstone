@@ -64,7 +64,12 @@ This will be a directory and navigation tool to find what you are looking for:
 
 - Supporting Documentation and Information
   - CV Info
+    - Frames to Video.py
   - Digit Recognition
+    -Diehl_et_al-2015-Frontiers_in_Computational_Nueroscience.pdf
   - Hough Transform
+    - Hough Transform SNN Multiple Line Detection.pdf
+    - README.md
+    - stdc_sim.m
 
 - README.md (Contains general overview of project)
