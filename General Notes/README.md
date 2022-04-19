@@ -57,6 +57,7 @@ This will be a directory and navigation tool to find what you are looking for:
   - Sample Recordings
     - 200_jets_at_200hx.raw
     - 80_balls.raw
+    - README.md
     - marker video
     - sparklers.raw
 
