@@ -41,6 +41,10 @@ This will be a directory and navigation tool to find what you are looking for:
 
 - Moving Forward (Information on expanding event based)
   - SLAM Event Based Resources
+    - 3D Slam with Deep Augmented Dynamic Vision Sensors.pdf
+    - README.md
+    - Towards Visual SLAM with Events Based Cameras.pdf
+    - Visual SLAM with Event Based Camera.pdf
 
 
 - Recording and Data Sets 
